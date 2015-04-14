@@ -1,3 +1,2 @@
 GitTest1
 GitTest2
-GitTest3
